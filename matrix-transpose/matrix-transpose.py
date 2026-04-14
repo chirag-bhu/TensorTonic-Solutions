@@ -8,7 +8,7 @@ def matrix_transpose(A):
     return A.T
 
 
-# this is normal we to transpose a matrix
+# this is normal way to transpose a matrix
 
 # row=len(A)
 # col=len(A[0])
